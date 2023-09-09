@@ -1,0 +1,3 @@
+/home/gatsbyx/curves/CMakeFiles/curves-usage.dir
+/home/gatsbyx/curves/CMakeFiles/edit_cache.dir
+/home/gatsbyx/curves/CMakeFiles/rebuild_cache.dir

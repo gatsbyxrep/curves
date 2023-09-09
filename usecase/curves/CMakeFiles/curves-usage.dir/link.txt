@@ -1,0 +1,1 @@
+/usr/bin/c++ "CMakeFiles/curves-usage.dir/main.cpp.o" -o curves-usage  -Wl,-rpath,/home/gatsbyx/curvesLibrary/install/lib /home/gatsbyx/curvesLibrary/install/lib/libcurvesLibrary.so /usr/lib/libgomp.so /usr/lib/libpthread.a 
