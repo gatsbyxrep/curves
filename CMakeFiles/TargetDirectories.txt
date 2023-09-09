@@ -1,0 +1,7 @@
+/home/gatsbyx/curvesLibrary/CMakeFiles/curvesLibrary.dir
+/home/gatsbyx/curvesLibrary/CMakeFiles/edit_cache.dir
+/home/gatsbyx/curvesLibrary/CMakeFiles/rebuild_cache.dir
+/home/gatsbyx/curvesLibrary/CMakeFiles/list_install_components.dir
+/home/gatsbyx/curvesLibrary/CMakeFiles/install.dir
+/home/gatsbyx/curvesLibrary/CMakeFiles/install/local.dir
+/home/gatsbyx/curvesLibrary/CMakeFiles/install/strip.dir

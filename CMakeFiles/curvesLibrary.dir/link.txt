@@ -1,0 +1,1 @@
+/usr/bin/c++ -fPIC -shared -Wl,-soname,libcurvesLibrary.so -o libcurvesLibrary.so CMakeFiles/curvesLibrary.dir/src/circle.cpp.o CMakeFiles/curvesLibrary.dir/src/curve.cpp.o CMakeFiles/curvesLibrary.dir/src/curve3abstract.cpp.o CMakeFiles/curvesLibrary.dir/src/curves3factory.cpp.o CMakeFiles/curvesLibrary.dir/src/ellipse.cpp.o CMakeFiles/curvesLibrary.dir/src/helix3.cpp.o 

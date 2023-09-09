@@ -1,0 +1,2 @@
+/home/gatsbyx/curvesLibrary/src
+/home/gatsbyx/curvesLibrary/include

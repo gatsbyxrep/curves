@@ -1,0 +1,13 @@
+/home/gatsbyx/curvesLibrary/install/lib/libcurvesLibrary.so
+/home/gatsbyx/curvesLibrary/install/include/curvesLibrary/circle.h
+/home/gatsbyx/curvesLibrary/install/include/curvesLibrary/curve.h
+/home/gatsbyx/curvesLibrary/install/include/curvesLibrary/curve3abstract.h
+/home/gatsbyx/curvesLibrary/install/include/curvesLibrary/curves3factory.h
+/home/gatsbyx/curvesLibrary/install/include/curvesLibrary/ellipse.h
+/home/gatsbyx/curvesLibrary/install/include/curvesLibrary/helix3.h
+/home/gatsbyx/curvesLibrary/install/include/curvesLibrary/point3.h
+/home/gatsbyx/curvesLibrary/install/include/curvesLibrary/vector3.h
+/home/gatsbyx/curvesLibrary/install/cmake/curvesLibraryTargets.cmake
+/home/gatsbyx/curvesLibrary/install/cmake/curvesLibraryTargets-noconfig.cmake
+/home/gatsbyx/curvesLibrary/install/cmake/curvesLibraryConfig.cmake
+/home/gatsbyx/curvesLibrary/install/cmake/curvesLibraryConfigVersion.cmake
